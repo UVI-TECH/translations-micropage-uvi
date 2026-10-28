@@ -1,10 +1,6 @@
 {
   "section1": {
     "subtitle": "With you in mind",
-    "title": {
-      "line1": "innovamos",
-      "line2": "We innovate"
-    },
     "cta": {
       "discover": "Discover who we are",
       "reservations": "RESERVATIONS",
@@ -12,10 +8,12 @@
     },
     "emails": {
       "title": "UVI Email Addresses",
-      "direccion": "Management Area",
-      "pedagogica": "Pedagogical Area",
-      "diseno": "Design Area",
-      "tecnologia": "Technology Area"
+      "direccion": "Leadership Axis",
+      "educativa": "Educational Innovation Axis",
+      "tecnologica": "Technological Innovation Axis"
+    },
+    "events": {
+      "alt": "Event schedule"
     }
   },
   "section2": {
@@ -26,6 +24,14 @@
       "line2": "Academic",
       "line3": "Platforms",
       "line4": "TUTORIALS"
+    },
+    "access": "<strong>We make it easy for you to access</strong> and make the most of the Moodle and Teams virtual classrooms.",
+    "roles": {
+      "title": "Choose your role",
+      "teacher": "Teacher",
+      "student": "Student",
+      "deep": "Deep Training",
+      "workshops": "Express Workshops"
     }
   },
   "section3": {
@@ -48,5 +54,87 @@
       "tools": "Tools",
       "repository": "Repository"
     }
+  },
+  "common": {
+    "a11y": {
+      "toggleLanguage": "Change language",
+      "location": "UVI location",
+      "openChat": "Open chat",
+      "chatbot": "Uvinauta chatbot"
+    }
+  },
+  "section4": {
+    "projects": {
+      "title": "Projects",
+      "description": "We bring to life ideas that will not only transform the academic environment, but also leave a positive mark on the Unicamacho educational community. We propose, design and develop base projects, with original ideas turned into products (resources and processes) that support our mission, sustainability and visibility.",
+      "enchufate": {
+        "menu": "Enchúfate con la U",
+        "title": "Enchúfate con la U",
+        "text": "We want <strong>our students</strong> at Unicamacho to be trained to access, use and thus make Information and Communication Technologies (ICT) their own. That is how “Enchúfate con la U” was born: a strategy that empathetically seeks to contribute to the development of their <strong>digital competence</strong>, so they can connect through a variety of workshops on digital tools, software and platforms, offered online at different times and schedules every semester."
+      },
+      "profe": {
+        "menu": "Profe Enchufado",
+        "title": "El profe enchufado",
+        "text": "We propose this semester event to bring Unicamacho <strong>teachers</strong> into our training and quality strategy for <strong>strengthening digital competence</strong>, providing spaces for practice, reflection, knowledge exchange and recognition of meaningful and innovative experiences. The event's topics revolve around emerging methods and technologies linked to teaching and learning processes in Higher Education."
+      },
+      "osadia": {
+        "menu": "Osadía",
+        "title": "Osadía",
+        "text": "We designed this gamified digital educational resource, made up of challenges and games to check and consolidate knowledge, which <strong>connects with the preparation for university life</strong> (PVU) of students entering the institution for the first time. Its design is based on the ADDIE model (Analysis, Design, Development, Evaluation and Implementation), and it is structured around five challenges related to Unicamacho's learning environments.",
+        "stickers": "Download WhatsApp stickers"
+      },
+      "cyberbox": {
+        "menu": "Enchufados: CyberBox",
+        "title": "Enchufados: CyberBox",
+        "text": "The hybrid game “Enchufados: CyberBox”, created by UVI, aims to help participants discover and use some of the <strong>digital tools</strong> available to the Unicamacho educational community. Through Game Thinking and Challenge-Based Learning, CyberBox tests the agility and cleverness of its players. CyberBox is based on the traditional <strong>“Snakes and Ladders”</strong> game, adapted here for hybrid environments (analog + digital): the snakes from the original game become mechanical hands and the ladders become drones. The game also includes 36 challenge cards, 1 board, 1 die, instructions, and blue, green and yellow (QR) stickers.",
+        "cta": "Come play and expand your digital world!"
+      }
+    },
+    "deda": {
+      "title": "Digital Learning Experiences",
+      "description": "We support you in the <strong>Design of Digital Learning Experiences (DEDA)</strong> that inspire knowledge: challenging, enriched, interactive, flexible and dynamic, using different resources, materials and personalized paths with a differential approach.<br>Along the way, we give you the tools you need so that your learning experience is aligned with the competencies and learning outcomes of your course's micro-curriculum.<br>Finally, we invite you to enroll in the <strong>permanent, self-paced course on Creating Digital Learning Experiences</strong>, and to stay tuned for the <strong>opening of the DEDA process</strong> in your faculty.",
+      "process": {
+        "menu": "DEDA support",
+        "title": "Digital Learning Experience Design Process (DEDA)",
+        "text": "At the start of each academic term, Uniajc Virtual (UVI) opens its support for the <strong>Digital Learning Experience Design (DEDA)</strong> process (formerly known as the course virtualization process), which is guided by <strong>5 phases</strong> of instructional design: Analysis, Design, Development, Evaluation and Implementation. We therefore invite each program director to select the teachers and courses that will join the process."
+      },
+      "course": {
+        "menu": "Course - Creating Digital Learning Experiences",
+        "title": "Course on Creating Digital Learning Experiences",
+        "text": "Teacher, with your needs in mind, we have designed a course where you will learn about the different phases involved in designing a digital learning experience, related to our DNA, methodological design, the learning environment and the way a course is assessed, all from a pedagogical perspective. <strong>Join in!</strong> This course is self-paced and will give you an inspiring learning experience."
+      },
+      "strategies": {
+        "menu": "Teaching strategies",
+        "title": "Teaching strategies",
+        "text": "Discover how to carry out a teaching strategy, which will help you guide and plan your teaching and learning process and which, under a given approach, brings together an interrelated set of organized procedures, actions or instructions to support, guide and regulate the development of students' learning experiences."
+      },
+      "techniques": {
+        "menu": "Teaching techniques",
+        "title": "Teaching techniques",
+        "text": "Explore teaching techniques: specific procedures that set out, in an organized way, how to carry out a teaching and learning process through a teaching strategy. Their steps define how actions should be guided and carried out to achieve the learning outcomes of your whole experience."
+      }
+    }
+  },
+  "section6": {
+    "tools": {
+      "title": "Tools",
+      "description": "We invite you to <strong>explore and use the wide range of digital tools</strong> that Unicamacho has for you. Create enriched teaching strategies with our <strong>Toolbox</strong>, a special selection of more than twenty types of resources with their tutorials and some specialized user manuals. If you are a teacher, you will find that Unicamacho has Kahoot and Genially licenses; to get access, remember to request it through the booking system (Microsoft Bookings) in the side tab of the website."
+    },
+    "red": {
+      "title": "RED Catalog",
+      "subtitle": "(Digital Educational Resources)",
+      "description": "The RED Catalog is made up of a <strong>series of videos</strong> from the Uniajc Virtual YouTube channel and <strong>digital presentations</strong> hosted in the Institutional Library repository. These videos and presentations cover health sciences, natural sciences, social sciences and humanities, education sciences, as well as institutional content. A digital collection that is growing, online and open to the community.",
+      "presentations": "Digital presentations catalog",
+      "videos": "Video catalog"
+    }
+  },
+  "footer": {
+    "stats": {
+      "resources": "Digital resources",
+      "courses": "Courses on Moodle and Teams",
+      "students": "Active students in virtual classrooms"
+    },
+    "follow": "follow us",
+    "support": "Need support?"
   }
 }

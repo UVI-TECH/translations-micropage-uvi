@@ -1,10 +1,6 @@
 {
   "section1": {
     "subtitle": "Mit dir im Sinn",
-    "title": {
-      "line1": "wir innovieren",
-      "line2": "Wir innovieren"
-    },
     "cta": {
       "discover": "Entdecke wer wir sind",
       "reservations": "RESERVIERUNGEN",
@@ -13,9 +9,11 @@
     "emails": {
       "title": "UVI E-Mail-Adressen",
       "direccion": "Leitungsbereich",
-      "pedagogica": "Pädagogischer Bereich",
-      "diseno": "Designbereich",
-      "tecnologia": "Technologiebereich"
+      "educativa": "Bereich Bildungsinnovation",
+      "tecnologica": "Bereich Technologische Innovation"
+    },
+    "events": {
+      "alt": "Veranstaltungsprogramm"
     }
   },
   "section2": {
@@ -26,6 +24,14 @@
       "line2": "Akademische",
       "line3": "Plattformen",
       "line4": "ANLEITUNGEN"
+    },
+    "access": "<strong>Wir erleichtern dir den Zugang</strong> zu den virtuellen Klassenzimmern in Moodle und Teams und deren Nutzung.",
+    "roles": {
+      "title": "Wähle deine Rolle",
+      "teacher": "Lehrkraft",
+      "student": "Studierende",
+      "deep": "Deep Training",
+      "workshops": "Express-Workshops"
     }
   },
   "section3": {
@@ -48,5 +54,87 @@
       "tools": "Werkzeuge",
       "repository": "Repository"
     }
+  },
+  "common": {
+    "a11y": {
+      "toggleLanguage": "Sprache wechseln",
+      "location": "Standort der UVI",
+      "openChat": "Chat öffnen",
+      "chatbot": "Uvinauta-Chatbot"
+    }
+  },
+  "section4": {
+    "projects": {
+      "title": "Projekte",
+      "description": "Wir erwecken Ideen zum Leben, die nicht nur das akademische Umfeld verändern, sondern auch einen positiven Eindruck in der Bildungsgemeinschaft der Unicamacho hinterlassen. Wir schlagen Basisprojekte vor, gestalten und entwickeln sie – mit originellen Ideen, die in Produkte (Ressourcen und Prozesse) umgesetzt werden und unseren Auftrag, unsere Nachhaltigkeit und unsere Sichtbarkeit unterstützen.",
+      "enchufate": {
+        "menu": "Enchúfate con la U",
+        "title": "Enchúfate con la U",
+        "text": "Wir möchten, dass <strong>unsere Studierenden</strong> an der Unicamacho befähigt werden, Informations- und Kommunikationstechnologien (IKT) zu nutzen und sie sich so zu eigen zu machen. So entstand „Enchúfate con la U“, eine Strategie, die auf empathische Weise zur Entwicklung ihrer <strong>digitalen Kompetenz</strong> beitragen möchte, damit sie sich über verschiedene Workshops mit digitalen Werkzeugen, Software und Plattformen vertraut machen können – online angeboten, zu unterschiedlichen Zeiten und in jedem Semester."
+      },
+      "profe": {
+        "menu": "Profe Enchufado",
+        "title": "El profe enchufado",
+        "text": "Mit dieser Veranstaltung, die jedes Semester stattfindet, binden wir die <strong>Lehrkräfte</strong> der Unicamacho in die Bildungs- und Qualitätsstrategie zur <strong>Stärkung der digitalen Kompetenz</strong> ein. Sie bietet Raum für Praxis, Reflexion, Wissensaustausch und die Anerkennung bedeutsamer und innovativer Erfahrungen. Die Themen drehen sich um neue Methoden und Technologien in den Lehr- und Lernprozessen der Hochschulbildung."
+      },
+      "osadia": {
+        "menu": "Osadía",
+        "title": "Osadía",
+        "text": "Wir haben diese spielerische digitale Bildungsressource gestaltet, die aus Herausforderungen sowie Spielen zur Überprüfung und Aneignung von Wissen besteht und <strong>an die Vorbereitung auf das Universitätsleben</strong> (PVU) der Studierenden anknüpft, die neu an die Hochschule kommen. Grundlage für die Gestaltung ist das ADDIE-Modell (Analyse, Design, Entwicklung, Evaluation und Implementierung); sie besteht aus fünf Herausforderungen rund um die Lernumgebungen der Unicamacho.",
+        "stickers": "WhatsApp-Sticker herunterladen"
+      },
+      "cyberbox": {
+        "menu": "Enchufados: CyberBox",
+        "title": "Enchufados: CyberBox",
+        "text": "Das hybride Spiel „Enchufados: CyberBox“ wurde von der UVI entwickelt, um einige der <strong>digitalen Werkzeuge</strong> kennenzulernen und zu nutzen, die der Bildungsgemeinschaft der Unicamacho zur Verfügung stehen. Mit Game Thinking und herausforderungsbasiertem Lernen stellt CyberBox die Schnelligkeit und Cleverness der Teilnehmenden auf die Probe. Didaktische Grundlage ist das traditionelle Spiel <strong>„Leiterspiel“</strong>, hier für hybride Umgebungen (analog + digital) neu gestaltet: Die Schlangen des Originalspiels werden zu mechanischen Händen und die Leitern zu Drohnen. Außerdem enthält das Spiel 36 Aufgabenkarten, 1 Spielbrett, 1 Würfel, eine Anleitung sowie blaue, grüne und gelbe Sticker (QR).",
+        "cta": "Spiel mit und erweitere deine digitale Welt!"
+      }
+    },
+    "deda": {
+      "title": "Digitale Lernerfahrungen",
+      "description": "Wir begleiten dich bei der <strong>Gestaltung digitaler Lernerfahrungen (DEDA)</strong>, die Wissen anregen: herausfordernd, bereichert, interaktiv, flexibel und dynamisch – mit unterschiedlichen Ressourcen, Materialien und individuellen Lernwegen mit differenziertem Ansatz.<br>Auf diesem Weg geben wir dir die nötigen Werkzeuge, damit deine Lernerfahrung auf die Kompetenzen und Lernergebnisse des Mikrocurriculums deines Fachs abgestimmt ist.<br>Schließlich laden wir dich ein, dich in den <strong>dauerhaften, selbstgesteuerten Kurs zur Erstellung digitaler Lernerfahrungen</strong> einzuschreiben und auf die <strong>Eröffnung des DEDA-Prozesses</strong> deiner Fakultät zu achten.",
+      "process": {
+        "menu": "DEDA-Begleitung",
+        "title": "Prozess zur Gestaltung digitaler Lernerfahrungen (DEDA)",
+        "text": "Zu Beginn jedes akademischen Semesters eröffnet Uniajc Virtual (UVI) die Begleitung für den Prozess zur <strong>Gestaltung digitaler Lernerfahrungen (DEDA)</strong> (früher Prozess der Kursvirtualisierung genannt). Er umfasst <strong>5 Phasen</strong> des Instruktionsdesigns: Analyse, Design, Entwicklung, Evaluation und Implementierung. Deshalb laden wir alle Studiengangsleitungen ein, die Lehrkräfte und Fächer auszuwählen, die am Prozess teilnehmen."
+      },
+      "course": {
+        "menu": "Kurs - Erstellung digitaler Lernerfahrungen",
+        "title": "Kurs zur Erstellung digitaler Lernerfahrungen",
+        "text": "Liebe Lehrkraft, mit Blick auf deine Bedürfnisse haben wir einen Kurs gestaltet, in dem du die verschiedenen Phasen der Gestaltung einer digitalen Lernerfahrung kennenlernst – rund um unsere DNA, das methodische Design, die Lernumgebung und die Art, wie ein Kurs bewertet wird, aus pädagogischer Sicht. <strong>Mach mit!</strong> Dieser Kurs ist selbstgesteuert und bietet dir ein inspirierendes Lernerlebnis."
+      },
+      "strategies": {
+        "menu": "Didaktische Strategien",
+        "title": "Didaktische Strategien",
+        "text": "Entdecke, wie du eine didaktische Strategie umsetzt. Sie hilft dir, deinen Lehr- und Lernprozess auszurichten und zu planen, und vereint unter einem bestimmten Ansatz zusammenhängende, organisierte Verfahren, Handlungen oder Anweisungen, um die Lernerfahrungen der Studierenden zu begleiten, zu lenken und zu steuern."
+      },
+      "techniques": {
+        "menu": "Didaktische Techniken",
+        "title": "Didaktische Techniken",
+        "text": "Sieh dir die didaktischen Techniken an: konkrete Verfahren, die strukturiert festlegen, wie ein Lehr- und Lernprozess im Rahmen einer didaktischen Strategie durchgeführt wird. Ihre Schritte bestimmen, wie die Maßnahmen ausgerichtet und umgesetzt werden, um die Lernergebnisse deiner gesamten Lernerfahrung zu erreichen."
+      }
+    }
+  },
+  "section6": {
+    "tools": {
+      "title": "Werkzeuge",
+      "description": "Wir laden dich ein, <strong>die vielfältigen digitalen Werkzeuge zu entdecken und zu nutzen</strong>, die die Unicamacho für dich bereithält. Gestalte bereicherte didaktische Strategien mit unserer <strong>Werkzeugkiste</strong>, einer besonderen Auswahl von mehr als zwanzig Ressourcentypen mit passenden Tutorials und einigen spezialisierten Handbüchern. Als Lehrkraft stehen dir an der Unicamacho Kahoot- und Genially-Lizenzen zur Verfügung; den Zugang beantragst du über das Reservierungssystem (Microsoft Bookings) im seitlichen Reiter der Website."
+    },
+    "red": {
+      "title": "RED-Katalog",
+      "subtitle": "(Digitale Bildungsressourcen)",
+      "description": "Der RED-Katalog besteht aus einer <strong>Reihe von Videos</strong> des YouTube-Kanals Uniajc Virtual und <strong>digitalen Präsentationen</strong> im Repositorium der Hochschulbibliothek. Diese Videos und Präsentationen behandeln Gesundheitswissenschaften, Naturwissenschaften, Sozial- und Geisteswissenschaften, Erziehungswissenschaften sowie institutionelle Inhalte. Ein wachsendes digitales Angebot – online und offen für die Gemeinschaft.",
+      "presentations": "Katalog digitaler Präsentationen",
+      "videos": "Videokatalog"
+    }
+  },
+  "footer": {
+    "stats": {
+      "resources": "Digitale Ressourcen",
+      "courses": "Kurse auf Moodle und Teams",
+      "students": "Aktive Studierende in virtuellen Klassenzimmern"
+    },
+    "follow": "folge uns",
+    "support": "Brauchst du Hilfe?"
   }
 }

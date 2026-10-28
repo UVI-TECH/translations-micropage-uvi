@@ -1,10 +1,6 @@
 {
   "section1": {
     "subtitle": "Pensando en ti",
-    "title": {
-      "line1": "innovamos",
-      "line2": "We innovate"
-    },
     "cta": {
       "discover": "Descubre quiénes somos",
       "reservations": "RESERVAS",
@@ -12,10 +8,12 @@
     },
     "emails": {
       "title": "Correos UVI",
-      "direccion": "Área Directiva",
-      "pedagogica": "Área Pedagógica",
-      "diseno": "Área Diseño",
-      "tecnologia": "Área Tecnológica"
+      "direccion": "Eje Directivo",
+      "educativa": "Eje de Innovación Educativa",
+      "tecnologica": "Eje de Innovación Tecnológica"
+    },
+    "events": {
+      "alt": "Programación de evento"
     }
   },
   "section2": {
@@ -26,6 +24,14 @@
       "line2": "Plataformas",
       "line3": "Académicas",
       "line4": "TUTORIALES"
+    },
+    "access": "<strong>Te facilitamos el acceso</strong> y apropiación de las aulas virtuales Moodle y Teams.",
+    "roles": {
+      "title": "Elige tu rol",
+      "teacher": "Profesor",
+      "student": "Estudiante",
+      "deep": "Deep Training",
+      "workshops": "Talleres Express"
     }
   },
   "section3": {
@@ -43,10 +49,92 @@
   },
   "section5": {
     "title": "Descubre",
-    "description": "La era digital actual y la tecnología para la educación, ofrece una amplia gama de herramientas que pueden enriquecer tus experiencias de enseñanza aprendizaje, dispuestas en diferentes dispositivos, las puedes explorar en línea. Es por eso que UVI tiene para tí, una gran cantidad de <strong>herramientas digitales y recursos audio visuales, disponibles para descubrir</strong>. Explorar el vasto mundo digital te proporcionará valiosos conocimientos.",
+    "description": "La era digital actual y la tecnología para la educación, ofrece una amplia gama de herramientas que pueden enriquecer tus experiencias de enseñanza aprendizaje, dispuestas en diferentes dispositivos, las puedes explorar en línea. Es por eso que UVI tiene para ti, una gran cantidad de <strong>herramientas digitales y recursos audiovisuales, disponibles para descubrir</strong>. Explorar el vasto mundo digital te proporcionará valiosos conocimientos.",
     "cards": {
       "tools": "Herramientas",
       "repository": "Catálogo RED"
     }
+  },
+  "common": {
+    "a11y": {
+      "toggleLanguage": "Cambiar idioma",
+      "location": "Ubicación UVI",
+      "openChat": "Abrir chat",
+      "chatbot": "Chatbot Uvinauta"
+    }
+  },
+  "section4": {
+    "projects": {
+      "title": "Proyectos",
+      "description": "Damos vida a ideas que no solo transformarán el entorno académico, sino también dejarán una huella positiva en la comunidad educativa Unicamacho. Proponemos, diseñamos y desarrollamos proyectos base, con ideas originales materializadas en productos (recursos y procesos), que apoyen nuestra razón misional, sostenimiento y visibilización.",
+      "enchufate": {
+        "menu": "Enchúfate con la U",
+        "title": "Enchúfate con la U",
+        "text": "Queremos que <strong>nuestros estudiantes</strong> en Unicamacho estén capacitados para acceder, usar y, de esa manera, apropiarse de las Tecnologías de la Información y la Comunicación (TIC). Así nace “Enchúfate con la U”, una estrategia que busca, de forma empática, contribuir al desarrollo de la <strong>competencia digital</strong> en ellos, para que puedan conectarse a través de diversos talleres al manejo de herramientas digitales, software y plataformas, ofertados de manera virtual, en diferentes horarios y jornadas cada semestre."
+      },
+      "profe": {
+        "menu": "Profe Enchufado",
+        "title": "El profe enchufado",
+        "text": "Proponemos este evento semestral para integrar a la estrategia formativa y de calidad, en el <strong>fortalecimiento de la competencia digital</strong>, a los <strong>profesores</strong> de Unicamacho, facilitando espacios de práctica, reflexión e intercambio de conocimientos y de reconocimiento de las experiencias significativas e innovadoras. Los temas del evento giran alrededor de los métodos y tecnologías emergentes vinculados en los procesos de enseñanza aprendizaje en la Educación Superior."
+      },
+      "osadia": {
+        "menu": "Osadía",
+        "title": "Osadía",
+        "text": "Diseñamos este recurso educativo digital gamificado, compuesto por retos, juegos de comprobación y apropiación de saberes, que <strong>conecta con la preparación a la vida universitaria</strong> (PVU) de los estudiantes que ingresan por primera vez a la institución. Para su diseño se toma como referencia el modelo ADDIE (Análisis, Diseño, Desarrollo, Evaluación e Implementación); en su estructura se compone de cinco retos relacionados con los entornos de aprendizaje de Unicamacho.",
+        "stickers": "Descargar stickers para WhatsApp"
+      },
+      "cyberbox": {
+        "menu": "Enchufados: CyberBox",
+        "title": "Enchufados: CyberBox",
+        "text": "El juego híbrido “Enchufados: CyberBox”, creado por UVI, tiene como propósito el reconocimiento y uso de algunas de las <strong>herramientas digitales</strong> disponibles para la comunidad educativa Unicamacho. A través del Game Thinking y el Aprendizaje Basado en Retos, CyberBox pone a prueba la agilidad y astucia de los participantes. La base didáctica de CyberBox es la del juego tradicional de la <strong>“Escalera”</strong>, en este caso readaptada para los entornos híbridos (análogo + digital), en donde las serpientes que aparecen en el juego original serán manos mecánicas y las escaleras serán drones. El juego, además, contiene: 36 tarjetas con retos, 1 tablero, 1 dado, instrucciones y stickers azules, verdes y amarillos (QR).",
+        "cta": "¡Anímate a jugar y a ampliar tu mundo digital!"
+      }
+    },
+    "deda": {
+      "title": "Experiencias Digitales de Aprendizaje",
+      "description": "Te acompañamos en el <strong>Diseño de Experiencias Digitales de Aprendizaje (DEDA)</strong>, que inspiren conocimientos: retadores, enriquecidos, interactivos, flexibles y dinámicos; mediante diferentes recursos, materiales y rutas personalizadas con un enfoque diferencial.<br>En este camino, te brindamos las herramientas necesarias para que tu experiencia de aprendizaje esté alineada a las competencias y resultados de aprendizaje del microcurrículo de tu asignatura.<br>Por último, te invitamos a matricularte en el <strong>curso permanente y autogestionado de Creación de Experiencias Digitales de Aprendizaje</strong>, y a estar atento y atenta a la <strong>apertura del proceso DEDA</strong> de tu facultad.",
+      "process": {
+        "menu": "Acompañamiento al DEDA",
+        "title": "Proceso de Diseño de Experiencias Digitales de Aprendizaje -DEDA-",
+        "text": "Al inicio de cada periodo académico, Uniajc Virtual (UVI) hace apertura del acompañamiento para el proceso de <strong>Diseño de Experiencias Digitales de Aprendizaje -DEDA-</strong> (anteriormente llamado proceso de virtualización de cursos), que está mediado por <strong>5 fases</strong> que corresponden al diseño instruccional: Análisis, Diseño, Desarrollo, Evaluación e Implementación. De esta manera, invitamos a cada uno de los directores de programa para que seleccionen los profesores y asignaturas que entrarán en el proceso."
+      },
+      "course": {
+        "menu": "Curso - Creación de Experiencias Digitales de Aprendizaje",
+        "title": "Curso de Creación de Experiencias Digitales de Aprendizaje",
+        "text": "Profe, pensando en tus necesidades, hemos diseñado un curso donde podrás conocer las diferentes fases que se llevan a cabo en el diseño de una experiencia digital de aprendizaje, relacionadas con nuestro ADN, el diseño metodológico, el entorno de aprendizaje y la forma en que se evalúa un curso, bajo el componente de una mirada pedagógica. <strong>¡Anímate a participar!</strong> Este curso es autogestionable y te brindará un aprendizaje inspirador."
+      },
+      "strategies": {
+        "menu": "Estrategias didácticas",
+        "title": "Estrategias didácticas",
+        "text": "Descubre cómo llevar a cabo una estrategia didáctica, que te permitirá orientar y planificar tu proceso de enseñanza y aprendizaje y que, bajo un enfoque, integra un conjunto interrelacionado de procedimientos, acciones o instrucciones organizadas para acompañar, orientar y regular el desarrollo de las experiencias de aprendizaje de los estudiantes."
+      },
+      "techniques": {
+        "menu": "Técnicas didácticas",
+        "title": "Técnicas didácticas",
+        "text": "Consulta las técnicas didácticas, que son procedimientos puntuales que determinan de modo organizado la forma de llevar a cabo un proceso de enseñanza y aprendizaje a través de una estrategia didáctica. Sus pasos definen cómo se deben orientar y concretar las acciones para alcanzar los resultados de aprendizaje de toda tu experiencia."
+      }
+    }
+  },
+  "section6": {
+    "tools": {
+      "title": "Herramientas",
+      "description": "Te invitamos a <strong>explorar y utilizar la diversidad de herramientas digitales</strong> que Unicamacho tiene para ti. Crea estrategias didácticas enriquecidas con nuestra <strong>Caja de Herramientas</strong>, que cuenta con la selección especial de más de veinte tipos de recursos con sus respectivos tutoriales y algunos manuales especializados para su uso. Si eres profesor, encontrarás que Unicamacho cuenta con licencias de Kahoot y Genially; para tener acceso a ellas, recuerda gestionarlo por el sistema de reservas (Microsoft Bookings) que encuentras en la pestaña lateral de la página web."
+    },
+    "red": {
+      "title": "Catálogo RED",
+      "subtitle": "(Recursos Educativos Digitales)",
+      "description": "El Catálogo RED consta de una <strong>serie de videos</strong> del canal de YouTube -Uniajc Virtual- y <strong>presentaciones digitales</strong> alojadas en el repositorio de la Biblioteca Institucional. Estos videos y presentaciones abarcan temas de ciencias de la salud, ciencias naturales, ciencias sociales y humanas, ciencias de la educación, así como contenido institucional. Un material digital en construcción, en línea y abierto a la comunidad.",
+      "presentations": "Catálogo de presentaciones digitales",
+      "videos": "Catálogo de videos"
+    }
+  },
+  "footer": {
+    "stats": {
+      "resources": "Recursos digitales",
+      "courses": "Cursos en plataformas Moodle y Teams",
+      "students": "Estudiantes activos en aulas virtuales"
+    },
+    "follow": "síguenos",
+    "support": "¿Necesitas soporte?"
   }
 }

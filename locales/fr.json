@@ -1,10 +1,6 @@
 {
   "section1": {
     "subtitle": "En pensant à toi",
-    "title": {
-      "line1": "nous innovons",
-      "line2": "Nous innovons"
-    },
     "cta": {
       "discover": "Découvrez qui nous sommes",
       "reservations": "RÉSERVATIONS",
@@ -12,10 +8,12 @@
     },
     "emails": {
       "title": "Courriels UVI",
-      "direccion": "Direction",
-      "pedagogica": "Pédagogie",
-      "diseno": "Design",
-      "tecnologia": "Technologie"
+      "direccion": "Axe de direction",
+      "educativa": "Axe d'innovation éducative",
+      "tecnologica": "Axe d'innovation technologique"
+    },
+    "events": {
+      "alt": "Programme de l'événement"
     }
   },
   "section2": {
@@ -26,6 +24,14 @@
       "line2": "Plateformes",
       "line3": "académiques",
       "line4": "TUTORIELS"
+    },
+    "access": "<strong>Nous vous facilitons l'accès</strong> aux salles de classe virtuelles Moodle et Teams et leur appropriation.",
+    "roles": {
+      "title": "Choisissez votre rôle",
+      "teacher": "Enseignant",
+      "student": "Étudiant",
+      "deep": "Deep Training",
+      "workshops": "Ateliers express"
     }
   },
   "section3": {
@@ -48,5 +54,87 @@
       "tools": "Outils",
       "repository": "Référentiel"
     }
+  },
+  "common": {
+    "a11y": {
+      "toggleLanguage": "Changer de langue",
+      "location": "Emplacement de l'UVI",
+      "openChat": "Ouvrir le chat",
+      "chatbot": "Chatbot Uvinauta"
+    }
+  },
+  "section4": {
+    "projects": {
+      "title": "Projets",
+      "description": "Nous donnons vie à des idées qui transformeront non seulement l'environnement académique, mais laisseront aussi une empreinte positive dans la communauté éducative d'Unicamacho. Nous proposons, concevons et développons des projets de base, avec des idées originales concrétisées en produits (ressources et processus), qui soutiennent notre mission, notre pérennité et notre visibilité.",
+      "enchufate": {
+        "menu": "Enchúfate con la U",
+        "title": "Enchúfate con la U",
+        "text": "Nous voulons que <strong>nos étudiants</strong> d'Unicamacho soient formés pour accéder aux Technologies de l'Information et de la Communication (TIC), les utiliser et ainsi se les approprier. C'est ainsi qu'est né « Enchúfate con la U », une stratégie qui cherche, avec empathie, à contribuer au développement de leur <strong>compétence numérique</strong>, afin qu'ils puissent se connecter, à travers divers ateliers, à la maîtrise d'outils numériques, de logiciels et de plateformes, proposés en ligne à différents horaires chaque semestre."
+      },
+      "profe": {
+        "menu": "Profe Enchufado",
+        "title": "El profe enchufado",
+        "text": "Nous proposons cet événement semestriel pour intégrer les <strong>enseignants</strong> d'Unicamacho à la stratégie de formation et de qualité, dans le <strong>renforcement de la compétence numérique</strong>, en offrant des espaces de pratique, de réflexion, d'échange de connaissances et de reconnaissance des expériences significatives et innovantes. Les thèmes de l'événement portent sur les méthodes et technologies émergentes liées aux processus d'enseignement et d'apprentissage dans l'Enseignement supérieur."
+      },
+      "osadia": {
+        "menu": "Osadía",
+        "title": "Osadía",
+        "text": "Nous avons conçu cette ressource éducative numérique ludifiée, composée de défis et de jeux de vérification et d'appropriation des savoirs, qui <strong>s'inscrit dans la préparation à la vie universitaire</strong> (PVU) des étudiants qui intègrent l'établissement pour la première fois. Sa conception s'appuie sur le modèle ADDIE (Analyse, Conception, Développement, Évaluation et Mise en œuvre) ; elle se compose de cinq défis liés aux environnements d'apprentissage d'Unicamacho.",
+        "stickers": "Télécharger les stickers WhatsApp"
+      },
+      "cyberbox": {
+        "menu": "Enchufados: CyberBox",
+        "title": "Enchufados: CyberBox",
+        "text": "Le jeu hybride « Enchufados: CyberBox », créé par l'UVI, a pour objectif de faire découvrir et utiliser certains des <strong>outils numériques</strong> mis à la disposition de la communauté éducative d'Unicamacho. Grâce au Game Thinking et à l'Apprentissage par défis, CyberBox met à l'épreuve l'agilité et la ruse des participants. CyberBox reprend le jeu traditionnel des <strong>« Serpents et échelles »</strong>, adapté ici aux environnements hybrides (analogique + numérique) : les serpents du jeu original deviennent des mains mécaniques et les échelles, des drones. Le jeu contient également 36 cartes défis, 1 plateau, 1 dé, des instructions et des stickers bleus, verts et jaunes (QR).",
+        "cta": "Lancez-vous : jouez et élargissez votre univers numérique !"
+      }
+    },
+    "deda": {
+      "title": "Expériences d'apprentissage numériques",
+      "description": "Nous vous accompagnons dans la <strong>Conception d'expériences d'apprentissage numériques (DEDA)</strong> qui inspirent des connaissances : stimulantes, enrichies, interactives, flexibles et dynamiques, grâce à différentes ressources, différents supports et des parcours personnalisés selon une approche différenciée.<br>Sur ce chemin, nous vous fournissons les outils nécessaires pour que votre expérience d'apprentissage soit alignée sur les compétences et les résultats d'apprentissage du micro-curriculum de votre cours.<br>Enfin, nous vous invitons à vous inscrire au <strong>cours permanent et autonome de Création d'expériences d'apprentissage numériques</strong>, et à rester attentif ou attentive à l'<strong>ouverture du processus DEDA</strong> de votre faculté.",
+      "process": {
+        "menu": "Accompagnement DEDA",
+        "title": "Processus de conception d'expériences d'apprentissage numériques (DEDA)",
+        "text": "Au début de chaque période académique, Uniajc Virtual (UVI) ouvre l'accompagnement du processus de <strong>Conception d'expériences d'apprentissage numériques (DEDA)</strong> (anciennement appelé processus de virtualisation des cours), qui s'articule autour de <strong>5 phases</strong> correspondant à l'ingénierie pédagogique : Analyse, Conception, Développement, Évaluation et Mise en œuvre. Nous invitons ainsi chaque directeur de programme à sélectionner les enseignants et les cours qui participeront au processus."
+      },
+      "course": {
+        "menu": "Cours - Création d'expériences d'apprentissage numériques",
+        "title": "Cours de création d'expériences d'apprentissage numériques",
+        "text": "Professeur, en pensant à vos besoins, nous avons conçu un cours où vous découvrirez les différentes phases de la conception d'une expérience d'apprentissage numérique, liées à notre ADN, à la conception méthodologique, à l'environnement d'apprentissage et à la manière dont un cours est évalué, le tout sous un regard pédagogique. <strong>Lancez-vous !</strong> Ce cours est autonome et vous offrira un apprentissage inspirant."
+      },
+      "strategies": {
+        "menu": "Stratégies didactiques",
+        "title": "Stratégies didactiques",
+        "text": "Découvrez comment mettre en œuvre une stratégie didactique, qui vous permettra d'orienter et de planifier votre processus d'enseignement et d'apprentissage et qui, selon une approche donnée, intègre un ensemble cohérent de procédures, d'actions ou d'instructions organisées pour accompagner, orienter et réguler le développement des expériences d'apprentissage des étudiants."
+      },
+      "techniques": {
+        "menu": "Techniques didactiques",
+        "title": "Techniques didactiques",
+        "text": "Consultez les techniques didactiques, des procédures ponctuelles qui déterminent de manière organisée la façon de mener un processus d'enseignement et d'apprentissage à travers une stratégie didactique. Leurs étapes définissent comment orienter et concrétiser les actions pour atteindre les résultats d'apprentissage de toute votre expérience."
+      }
+    }
+  },
+  "section6": {
+    "tools": {
+      "title": "Outils",
+      "description": "Nous vous invitons à <strong>explorer et utiliser la diversité des outils numériques</strong> qu'Unicamacho met à votre disposition. Créez des stratégies didactiques enrichies grâce à notre <strong>Boîte à outils</strong>, une sélection spéciale de plus de vingt types de ressources avec leurs tutoriels et quelques manuels spécialisés. Si vous êtes enseignant, vous verrez qu'Unicamacho dispose de licences Kahoot et Genially ; pour y accéder, pensez à en faire la demande via le système de réservation (Microsoft Bookings) disponible dans l'onglet latéral du site web."
+    },
+    "red": {
+      "title": "Catalogue RED",
+      "subtitle": "(Ressources éducatives numériques)",
+      "description": "Le Catalogue RED se compose d'une <strong>série de vidéos</strong> de la chaîne YouTube Uniajc Virtual et de <strong>présentations numériques</strong> hébergées dans le dépôt de la Bibliothèque institutionnelle. Ces vidéos et présentations couvrent les sciences de la santé, les sciences naturelles, les sciences sociales et humaines, les sciences de l'éducation, ainsi que des contenus institutionnels. Un fonds numérique en construction, en ligne et ouvert à la communauté.",
+      "presentations": "Catalogue de présentations numériques",
+      "videos": "Catalogue de vidéos"
+    }
+  },
+  "footer": {
+    "stats": {
+      "resources": "Ressources numériques",
+      "courses": "Cours sur les plateformes Moodle et Teams",
+      "students": "Étudiants actifs dans les salles virtuelles"
+    },
+    "follow": "suivez-nous",
+    "support": "Besoin d'aide ?"
   }
 }
