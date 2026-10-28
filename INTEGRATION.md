@@ -12,8 +12,18 @@ Guía paso a paso para integrar el sistema de traducciones en la página de Word
 
 ```
 Raw base URL: https://raw.githubusercontent.com/UVI-TECH/translations-micropage-uvi/main
-Loader JS: https://cdn.jsdelivr.net/gh/UVI-TECH/translations-micropage-uvi@main/i18n-loader.js
+Loader JS: https://cdn.jsdelivr.net/gh/UVI-TECH/translations-micropage-uvi@6f2bce13670ec47cd612e398320dab0c0bacc389/i18n-loader.js
 ```
+
+> **Loader fijado a un commit.** La URL del loader usa un hash de commit en lugar de `@main`:
+> jsDelivr cachea la resolución de ramas hasta 12 h (y limita las purgas), mientras que una URL
+> con hash es inmutable y se actualiza al instante. Las traducciones (`locales/*.json`) se leen
+> de `main` vía raw.githubusercontent, así que **no** hace falta cambiar el hash al editar textos.
+> Solo cuando cambie `i18n-loader.js`, obtén el nuevo hash y actualízalo en WordPress:
+>
+> ```bash
+> git log -1 --format=%H -- i18n-loader.js
+> ```
 
 ## 🛠️ Paso 1: Agregar el Fallback embebido
 
@@ -77,7 +87,7 @@ Agrega este script **antes del cierre de `</body>`**:
 
 ```html
 <!-- Sistema de traducciones i18n -->
-<script src="https://cdn.jsdelivr.net/gh/UVI-TECH/translations-micropage-uvi@main/i18n-loader.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/UVI-TECH/translations-micropage-uvi@6f2bce13670ec47cd612e398320dab0c0bacc389/i18n-loader.js"></script>
 
 <style>
   /* Animación de transición entre idiomas */
