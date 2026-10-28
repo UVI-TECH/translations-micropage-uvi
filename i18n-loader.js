@@ -16,7 +16,7 @@
   'use strict';
 
   const DEFAULTS = {
-    repoUrl: 'https://raw.githubusercontent.com/IAN63k/translations-micropage-uvi/main',
+    repoUrl: 'https://raw.githubusercontent.com/UVI-TECH/translations-micropage-uvi/main',
     availableLanguages: ['es', 'en', 'fr', 'de'],
     defaultLanguage: 'es',
     cacheKeyPrefix: 'i18n_',

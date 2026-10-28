@@ -61,7 +61,7 @@ La manera más rápida de integrar las traducciones en tu página de WordPress.
 ### 2️⃣ Cargar el LOADER (antes de `</body>`)
 
 ```html
-<script src="https://raw.githubusercontent.com/IAN63k/translations-micropage-uvi/main/i18n-loader.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/UVI-TECH/translations-micropage-uvi@main/i18n-loader.js"></script>
 ```
 
 ### 3️⃣ Agregar `data-i18n` atributos

@@ -44,7 +44,7 @@ Añade en la página (vista HTML):
 ### 2. Cargar el script i18n
 
 ```html
-<script src="https://raw.githubusercontent.com/tuusuario/translations-micropage-uvi/main/i18n-loader.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/UVI-TECH/translations-micropage-uvi@main/i18n-loader.js"></script>
 ```
 
 ### 3. Usar en elementos HTML

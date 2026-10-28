@@ -11,8 +11,8 @@ Guía paso a paso para integrar el sistema de traducciones en la página de Word
 ## 🔗 URLs a usar
 
 ```
-Raw base URL: https://raw.githubusercontent.com/IAN63k/translations-micropage-uvi/main
-Loader JS: https://raw.githubusercontent.com/IAN63k/translations-micropage-uvi/main/i18n-loader.js
+Raw base URL: https://raw.githubusercontent.com/UVI-TECH/translations-micropage-uvi/main
+Loader JS: https://cdn.jsdelivr.net/gh/UVI-TECH/translations-micropage-uvi@main/i18n-loader.js
 ```
 
 ## 🛠️ Paso 1: Agregar el Fallback embebido
@@ -77,7 +77,7 @@ Agrega este script **antes del cierre de `</body>`**:
 
 ```html
 <!-- Sistema de traducciones i18n -->
-<script src="https://raw.githubusercontent.com/IAN63k/translations-micropage-uvi/main/i18n-loader.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/UVI-TECH/translations-micropage-uvi@main/i18n-loader.js"></script>
 
 <style>
   /* Animación de transición entre idiomas */
