@@ -5,10 +5,13 @@ on:
     branches: [main]
     paths:
       - 'locales/**'
+      - '.github/workflows/validate.yml'
   pull_request:
     branches: [main]
     paths:
       - 'locales/**'
+      - '.github/workflows/validate.yml'
+  workflow_dispatch:
 
 jobs:
   validate:
