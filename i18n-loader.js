@@ -98,7 +98,8 @@
 
     async loadTranslations(lang) {
       const cached = this._readCache(lang);
-      if (cached) {
+      // Una caché anterior a nuevas claves de la página se descarta y se vuelve a descargar.
+      if (cached && this._pageKeys().every(key => this._lookup(cached, key) != null)) {
         this.translations = cached;
         return cached;
       }
@@ -115,11 +116,34 @@
       }
     }
 
-    /** Obtener valor por clave anidada ("a.b.c"). Si no existe, devuelve la clave. */
+    _lookup(data, key) {
+      return key.split('.').reduce((obj, k) => (obj == null ? undefined : obj[k]), data);
+    }
+
+    /** Claves usadas por la página en data-i18n y data-i18n-attr. */
+    _pageKeys() {
+      const keys = [];
+      document.querySelectorAll('[data-i18n]').forEach(el => keys.push(el.getAttribute('data-i18n')));
+      document.querySelectorAll('[data-i18n-attr]').forEach(el => {
+        el.getAttribute('data-i18n-attr').split(',').forEach(pair => {
+          const attrKey = (pair.split(':')[1] || '').trim();
+          if (attrKey) keys.push(attrKey);
+        });
+      });
+      return keys;
+    }
+
+    /**
+     * Obtener valor por clave anidada ("a.b.c"). Si no existe, intenta el fallback
+     * embebido (idioma actual y luego el por defecto); en último caso devuelve la clave.
+     */
     get(key) {
       if (!key) return '';
-      const value = key.split('.').reduce((obj, k) => (obj == null ? undefined : obj[k]), this.translations);
-      return value == null ? key : value;
+      const value = this._lookup(this.translations, key);
+      if (value != null) return value;
+      const fb = this._lookup(this._readFallback(this.currentLang), key)
+        ?? this._lookup(this._readFallback(this.config.defaultLanguage), key);
+      return fb == null ? key : fb;
     }
 
     _applyToElement(element) {
